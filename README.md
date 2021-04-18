@@ -10,7 +10,8 @@ You will need to pre-process the data to compile with the further pretraining sc
 #### Create pretraining data and train for TAPT
 To train a TAPT BERT, you will need to follow below steps. The scripts can be downloaded from  [Google bert repo](https://github.com/google-research/bert).
 + create pretraining data using create_pretraining_data.py
-`!python bert/create_pretraining_data.py \
+
+```!python bert/create_pretraining_data.py \
   --input_file=further-pre-training/CORPUS/G4-8/problem_text_g4-8_v2_for_post-train.txt \
   --output_file=further-pre-training/tmp/tf_skillCode_PROB_G4-8_bert.tfrecord \
   --vocab_file=further-pre-training/uncased_L-12_H-768_A-12/vocab.txt \
@@ -21,7 +22,8 @@ To train a TAPT BERT, you will need to follow below steps. The scripts can be do
   --masked_lm_prob=0.15 \
   --random_seed=12345 \
   --dupe_factor=5 \
-  --short_seq_prob=0.1`
+  --short_seq_prob=0.1
+```
 
 + further pre-train using run_pretraining.py
 + predict off off TAPT model artifacts using run_classifier.py
