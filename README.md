@@ -83,6 +83,6 @@ python bert/run_classifier.py \
 The baseline performance can be generated using the code in 'Code/baseline_code.py'
 
 #### Create TEXSTR metric
-TEXSTR metric $`\Lamda`$=$`\alpha`$*$`C_{t}`$+(1-\alpha)*C_{s}`$
+TEXSTR metric $$\Lamda=\alpha*C_{t}+(1-\alpha)*C_{s}$$
 
 C_{t} is semantic similarity calculated via doc2vec algorithm, C_{s} is calculated via node2vec algorithm. The detail script is 
