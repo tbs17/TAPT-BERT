@@ -49,7 +49,7 @@ python bert/run_pretraining.py \
   --tpu_name=$TPU_ADDRESS 
 
 ```
-+ predict off off TAPT model artifacts using run_classifier.py
++ predict off of TAPT model artifacts using run_classifier.py
 
 ```
 python bert/run_classifier.py \
@@ -79,3 +79,8 @@ python bert/run_classifier.py \
 
 
 #### Compare to BASELINE
+
+The baseline performance can be generated using the code in 'Code/baseline_code.py'
+
+#### Create TEXSTR metric
+TEXSTR metric $\Lamda=\alpha*C_{t}+(1-alpha)*C_{s}$, $C_{t}$ is semantic similarity calculated via doc2vec algorithm, $C_{s}$ is calculated via node2vec algorithm. The detail script is 
