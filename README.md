@@ -80,7 +80,7 @@ python bert/run_classifier.py \
 First, we convert the test.tsv file from TAPT fine-tuning and then we evaluate its accuracy. Please see details in the script 'Code/convert_evaluate_test.py'.
 #### Compare to BASELINE
 
-The baseline performance can be generated using the code in 'Code/baseline_code.py'
+The baseline performance can be generated using the code in 'Code/baseline.py'
 
 #### Create TEXSTR metric
 TEXSTR metric \Lamda=\alpha*C_{t}+(1-\alpha)*C_{s}
