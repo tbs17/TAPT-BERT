@@ -1,0 +1,256 @@
+Node A,Node B,Relation
+4.NBT.1,4.NBT.2,student who met standard A will likely to meet standard B
+4.NBT.3,4.OA.3,student who met standard A will likely to meet standard B
+4.NBT.1,4.NBT.3,student who met standard A will likely to meet standard B
+4.NBT.1,4.NBT.4,student who met standard A will likely to meet standard B
+4.NBT.1,4.NBT.5,student who met standard A will likely to meet standard B
+4.NBT.1,4.NBT.6,student who met standard A will likely to meet standard B
+4.NBT.6,4.OA.3,student who met standard A will likely to meet standard B
+4.OA.3,4.MD.2,student who met standard A will likely to meet standard B
+4.OA.1,4.OA.2,student who met standard A will likely to meet standard B
+4.OA.2,4.NF.1,student who met standard A will likely to meet standard B
+4.OA.2,4.MD.1,student who met standard A will likely to meet standard B
+4.MD.1,4.MD.2,student who met standard A will likely to meet standard B
+4.OA.2,4.NF.4,student who met standard A will likely to meet standard B
+4.NF.1,4.NF.2,student who met standard A will likely to meet standard B
+4.NF.1,4.NF.5,student who met standard A will likely to meet standard B
+4.NF.5,4.NF.6,student who met standard A will likely to meet standard B
+4.NF.6,4.NF.7,student who met standard A will likely to meet standard B
+4.NF.5,4.MD.2,student who met standard A will likely to meet standard B
+4.NF.2,4.NF.7,student who met standard A will likely to meet standard B
+4.NF.1,4.NF.3,student who met standard A will likely to meet standard B
+4.NF.3,4.MD.4,related
+4.G.1,4.G.2,student who met standard A will likely to meet standard B
+4.G.1,4.MD.5,related
+4.MD.5,4.MD.6,student who met standard A will likely to meet standard B
+4.MD.5,4.MD.7,student who met standard A will likely to meet standard B
+4.MD.5,4.G.2,related
+5.NBT.1,5.NBT.2,student who met standard A will likely to meet standard B
+5.NBT.1,5.NBT.3,student who met standard A will likely to meet standard B
+5.NBT.1,5.NBT.4,student who met standard A will likely to meet standard B
+5.NBT.1,5.NBT.5,student who met standard A will likely to meet standard B
+5.NBT.1,5.NBT.6,student who met standard A will likely to meet standard B
+5.NBT.3,5.NBT.4,student who met standard A will likely to meet standard B
+5.NBT.2,5.NBT.7,student who met standard A will likely to meet standard B
+5.NBT.6,5.NBT.7,student who met standard A will likely to meet standard B
+5.NF.1,5.NF.2,student who met standard A will likely to meet standard B
+5.NF.1,5.NBT.7,student who met standard A will likely to meet standard B
+5.OA.1,5.OA.2,student who met standard A will likely to meet standard B
+5.NF.1,5.NF.2,student who met standard A will likely to meet standard B
+5.NF.2,5.MD.2,student who met standard A will likely to meet standard B
+5.NBT.7,5.MD.1,student who met standard A will likely to meet standard B
+5.NF.7,5.NBT.7,student who met standard A will likely to meet standard B
+5.NF.5,5.OA.2,related
+5.NF.3,5.NF.4,related
+5.NF.3,5.NF.5,student who met standard A will likely to meet standard B
+5.NF.4,5.NF.5,student who met standard A will likely to meet standard B
+5.NF.4,5.NF.6,related
+5.NF.6,5.MD.2,student who met standard A will likely to meet standard B
+5.MD.3,5.MD.4,student who met standard A will likely to meet standard B
+5.MD.3,5.MD.5,student who met standard A will likely to meet standard B
+5.G.3,5.G.4,student who met standard A will likely to meet standard B
+5.G.1,5.G.2,related
+6.RP.1,6.RP.2,student who met standard A will likely to meet standard B
+6.RP.2,6.RP.3,student who met standard A will likely to meet standard B
+6.RP.1,6.RP.3,student who met standard A will likely to meet standard B
+6.NS.1,6.EE.7,student who met standard A will likely to meet standard B
+6.RP.3,6.EE.9,related
+6.EE.6,6.EE.7,student who met standard A will likely to meet standard B
+6.EE.1,6.EE.2,student who met standard A will likely to meet standard B
+6.EE.2,6.EE.5,student who met standard A will likely to meet standard B
+6.EE.5,6.EE.8,related
+6.EE.2,6.EE.3,student who met standard A will likely to meet standard B
+6.NS.5,6.NS.6,student who met standard A will likely to meet standard B
+6.NS.6,6.NS.7,student who met standard A will likely to meet standard B
+6.NS.6,6.NS.8,student who met standard A will likely to meet standard B
+6.NS.8,6.G.3,related
+6.NS.2,6.NS.3,student who met standard A will likely to meet standard B
+6.G.1,6.G.4,student who met standard A will likely to meet standard B
+6.SP.4,6.SP.5,related
+6.SP.2,6.SP.3,student who met standard A will likely to meet standard B
+6.SP.3,6.SP.5,student who met standard A will likely to meet standard B
+6.SP.1,6.SP.3,student who met standard A will likely to meet standard B
+4.NBT.1,5.NBT.1,student who met standard A will likely to meet standard B
+4.NF.5,5.NBT.1,student who met standard A will likely to meet standard B
+4.NF.6,5.NBT.1,student who met standard A will likely to meet standard B
+4.NF.7,5.NBT.3,student who met standard A will likely to meet standard B
+4.NF.7,5.NBT.1,student who met standard A will likely to meet standard B
+4.NBT.6,5.NBT.6,student who met standard A will likely to meet standard B
+4.NBT.5,5.NBT.5,student who met standard A will likely to meet standard B
+4.NBT.4,5.NBT.6,student who met standard A will likely to meet standard B
+4.NBT.4,5.NBT.4,student who met standard A will likely to meet standard B
+4.NBT.4,5.NBT.7,student who met standard A will likely to meet standard B
+4.NBT.3,5.NBT.3,student who met standard A will likely to meet standard B
+4.NBT.2,5.NBT.5,student who met standard A will likely to meet standard B
+4.G.2,5.G.3,student who met standard A will likely to meet standard B
+4.MD.3,5.MD.5,student who met standard A will likely to meet standard B
+4.MD.4,5.MD.2,student who met standard A will likely to meet standard B
+4.MD.2,5.NF.6,student who met standard A will likely to meet standard B
+4.MD.2,5.MD.1,student who met standard A will likely to meet standard B
+4.MD.2,5.NF.5,student who met standard A will likely to meet standard B
+4.MD.2,5.NF.3,student who met standard A will likely to meet standard B
+4.NF.4,5.NF.4,student who met standard A will likely to meet standard B
+4.NF.4,5.NF.7,student who met standard A will likely to meet standard B
+4.NF.1,5.NF.1,student who met standard A will likely to meet standard B
+4.NF.1,5.NF.5,student who met standard A will likely to meet standard B
+4.MD.1,5.MD.1,student who met standard A will likely to meet standard B
+4.OA.5,5.OA.3,student who met standard A will likely to meet standard B
+4.NF.2,5.NF.2,student who met standard A will likely to meet standard B
+4.NF.3,5.NF.1,student who met standard A will likely to meet standard B
+5.MD.2,6.SP.1,student who met standard A will likely to meet standard B
+5.MD.2,6.SP.2,student who met standard A will likely to meet standard B
+5.MD.2,6.SP.4,student who met standard A will likely to meet standard B
+5.MD.5,6.G.2,student who met standard A will likely to meet standard B
+4.MD.3,6.G.1,student who met standard A will likely to meet standard B
+5.NBT.6,6.NS.2,student who met standard A will likely to meet standard B
+5.NBT.7,6.NS.3,student who met standard A will likely to meet standard B
+5.NBT.6,6.NS.3,student who met standard A will likely to meet standard B
+5.NBT.5,6.NS.3,student who met standard A will likely to meet standard B
+5.G.1,6.NS.6,student who met standard A will likely to meet standard B
+5.NBT.2,6.EE.1,student who met standard A will likely to meet standard B
+5.NF.4,6.EE.7,student who met standard A will likely to meet standard B
+5.OA.2,6.NS.4,student who met standard A will likely to meet standard B
+5.OA.2,6.EE.3,student who met standard A will likely to meet standard B
+5.OA.2,6.EE.2,student who met standard A will likely to meet standard B
+5.G.2,6.RP.3,student who met standard A will likely to meet standard B
+5.G.2,6.NS.8,student who met standard A will likely to meet standard B
+5.G.2,6.G.3,student who met standard A will likely to meet standard B
+5.OA.3,6.EE.9,student who met standard A will likely to meet standard B
+5.OA.3,6.RP.1,student who met standard A will likely to meet standard B
+5.OA.3,6.EE.2,student who met standard A will likely to meet standard B
+5.NF.5,6.RP.1,student who met standard A will likely to meet standard B
+5.NF.7,6.NS.1,student who met standard A will likely to meet standard B
+5.NF.7,6.RP.2,student who met standard A will likely to meet standard B
+5.NF.1,6.EE.7,student who met standard A will likely to meet standard B
+4.MD.1,6.RP.2,student who met standard A will likely to meet standard B
+4.OA.2,6.RP.1,student who met standard A will likely to meet standard B
+5.NF.3,6.RP.2,student who met standard A will likely to meet standard B
+6.SP.2,7.SP.1,student who met standard A will likely to meet standard B
+6.SP.2,7.SP.3,student who met standard A will likely to meet standard B
+6.SP.1,7.SP.1,student who met standard A will likely to meet standard B
+6.RP.3,7.RP.3,student who met standard A will likely to meet standard B
+6.RP.3,7.RP.2,student who met standard A will likely to meet standard B
+6.RP.2,7.RP.2,student who met standard A will likely to meet standard B
+6.RP.2,7.RP.1,student who met standard A will likely to meet standard B
+4.MD.7,7.G.5,student who met standard A will likely to meet standard B
+6.G.4,7.G.6,student who met standard A will likely to meet standard B
+6.G.2,7.G.6,student who met standard A will likely to meet standard B
+6.G.1,7.G.1,student who met standard A will likely to meet standard B
+6.G.1,7.G.6,student who met standard A will likely to meet standard B
+6.G.1,7.G.4,student who met standard A will likely to meet standard B
+6.EE.8,7.EE.4,student who met standard A will likely to meet standard B
+6.EE.3,7.EE.1,student who met standard A will likely to meet standard B
+6.EE.4,7.EE.1,student who met standard A will likely to meet standard B
+6.EE.7,7.EE.4,student who met standard A will likely to meet standard B
+6.EE.6,7.EE.4,student who met standard A will likely to meet standard B
+5.NF.3,7.NS.2,student who met standard A will likely to meet standard B
+4.OA.3,7.NS.3,student who met standard A will likely to meet standard B
+6.NS.3,7.NS.3,student who met standard A will likely to meet standard B
+6.NS.1,7.SP.3,student who met standard A will likely to meet standard B
+6.NS.1,7.NS.2,student who met standard A will likely to meet standard B
+5.NF.4,7.NS.2,student who met standard A will likely to meet standard B
+5.NF.4,7.SP.3,student who met standard A will likely to meet standard B
+5.NF.1,7.NS.1,student who met standard A will likely to meet standard B
+6.NS.7,7.NS.1,student who met standard A will likely to meet standard B
+6.NS.6,7.NS.1,student who met standard A will likely to meet standard B
+6.NS.5,7.NS.1,student who met standard A will likely to meet standard B
+7.NS.1,7.NS.2,student who met standard A will likely to meet standard B
+7.NS.1,7.NS.3,student who met standard A will likely to meet standard B
+7.NS.3,7.EE.3,student who met standard A will likely to meet standard B
+7.NS.3,7.EE.4,student who met standard A will likely to meet standard B
+7.RP.1,7.RP.2,student who met standard A will likely to meet standard B
+7.RP.2,7.G.1,student who met standard A will likely to meet standard B
+7.RP.2,7.EE.4,student who met standard A will likely to meet standard B
+7.EE.1,7.EE.1,related
+7.RP.3,7.SP.6,student who met standard A will likely to meet standard B
+7.RP.3,7.SP.7,student who met standard A will likely to meet standard B
+7.RP.3,7.SP.8,student who met standard A will likely to meet standard B
+7.SP.5,7.SP.6,student who met standard A will likely to meet standard B
+7.SP.5,7.SP.1,student who met standard A will likely to meet standard B
+7.SP.1,7.SP.2,student who met standard A will likely to meet standard B
+7.SP.2,7.SP.4,student who met standard A will likely to meet standard B
+7.SP.3,7.SP.4,student who met standard A will likely to meet standard B
+5.NBT.2,8.EE.3,student who met standard A will likely to meet standard B
+4.OA.2,8.EE.3,student who met standard A will likely to meet standard B
+6.EE.1,8.EE.1,student who met standard A will likely to meet standard B
+7.EE.1,8.EE.7,student who met standard A will likely to meet standard B
+7.NS.2,8.NS.1,student who met standard A will likely to meet standard B
+8.NS.1,8.NS.2,related
+8.NS.1,8.EE.2,related
+7.NS.3,8.EE.2,student who met standard A will likely to meet standard B
+6.EE.5,8.EE.8,student who met standard A will likely to meet standard B
+6.EE.5,8.EE.2,student who met standard A will likely to meet standard B
+6.NS.8,8.SP.1,student who met standard A will likely to meet standard B
+7.G.6,8.G.6,student who met standard A will likely to meet standard B
+7.G.1,8.EE.6,student who met standard A will likely to meet standard B
+6.G.3,8.G.6,student who met standard A will likely to meet standard B
+6.G.3,8.G.3,student who met standard A will likely to meet standard B
+7.RP.2,8.EE.6,student who met standard A will likely to meet standard B
+7.RP.2,8.F.2,student who met standard A will likely to meet standard B
+7.RP.2,8.EE.5,student who met standard A will likely to meet standard B
+7.RP.2,8.F.1,student who met standard A will likely to meet standard B
+7.G.2,8.G.1,student who met standard A will likely to meet standard B
+7.G.5,8.G.1,student who met standard A will likely to meet standard B
+8.G.1,8.G.2,student who met standard A will likely to meet standard B
+8.G.1,8.G.3,student who met standard A will likely to meet standard B
+8.G.3,8.G.4,student who met standard A will likely to meet standard B
+8.G.2,8.G.4,student who met standard A will likely to meet standard B
+8.G.2,8.G.5,student who met standard A will likely to meet standard B
+8.G.4,8.G.5,student who met standard A will likely to meet standard B
+8.G.5,8.EE.6,student who met standard A will likely to meet standard B
+8.EE.5,8.EE.6,related
+8.EE.6,8.EE.8,student who met standard A will likely to meet standard B
+8.EE.5,8.F.2,student who met standard A will likely to meet standard B
+8.F.1,8.F.2,student who met standard A will likely to meet standard B
+8.F.2,8.F.3,related
+8.F.3,8.F.5,student who met standard A will likely to meet standard B
+8.F.2,8.F.6,student who met standard A will likely to meet standard B
+8.F.3,8.F.4,student who met standard A will likely to meet standard B
+8.F.4,8.F.5,student who met standard A will likely to meet standard B
+8.F.4,8.SP.3,student who met standard A will likely to meet standard B
+8.SP.1,8.SP.2,student who met standard A will likely to meet standard B
+8.SP.2,8.SP.3,student who met standard A will likely to meet standard B
+8.SP.2,8.F.4,related
+8.NS.1,8.NS.2,related
+8.NS.1,8.EE.2,related
+8.EE.2,8.G.9,student who met standard A will likely to meet standard B
+8.EE.2,8.G.6,related
+8.G.6,8.G.7,related
+8.G.7,8.G.8,student who met standard A will likely to meet standard B
+8.EE.1,8.EE.3,student who met standard A will likely to meet standard B
+8.EE.1,8.EE.4,student who met standard A will likely to meet standard B
+8.EE.3,8.EE.4,related
+8.EE.7,8.SP.3,related
+3.NBT.1,4.NBT.3,student who met standard A will likely to meet standard B
+3.NBT.2,4.NBT.4,student who met standard A will likely to meet standard B
+3.NBT.2,4.NBT.6,student who met standard A will likely to meet standard B
+3.NBT.3,4.NBT.5,student who met standard A will likely to meet standard B
+2.NBT.1,4.NBT.1,student who met standard A will likely to meet standard B
+3.OA.5,4.NBT.6,student who met standard A will likely to meet standard B
+3.OA.5,4.NBT.5,student who met standard A will likely to meet standard B
+3.NBT.3,4.NBT.5,student who met standard A will likely to meet standard B
+3.OA.8,4.OA.3,student who met standard A will likely to meet standard B
+3.OA.9,4.OA.5,student who met standard A will likely to meet standard B
+3.OA.7,4.NBT.5,student who met standard A will likely to meet standard B
+3.OA.7,4.NBT.6,student who met standard A will likely to meet standard B
+3.OA.7,4.OA.4,student who met standard A will likely to meet standard B
+3.OA.7,4.MD.1,student who met standard A will likely to meet standard B
+3.OA.1,4.NF.4,student who met standard A will likely to meet standard B
+3.OA.1,4.OA.1,student who met standard A will likely to meet standard B
+3.OA.3,4.OA.2,student who met standard A will likely to meet standard B
+3.OA.3,4.OA.1,student who met standard A will likely to meet standard B
+3.OA.3,4.NF.4,student who met standard A will likely to meet standard B
+3.MD.2,4.MD.1,student who met standard A will likely to meet standard B
+3.OA.4,4.MD.3,student who met standard A will likely to meet standard B
+3.MD.7,4.MD.3,student who met standard A will likely to meet standard B
+3.MD.8,4.MD.3,student who met standard A will likely to meet standard B
+3.NF.1,4.NF.4,student who met standard A will likely to meet standard B
+3.NF.1,4.NF.3,student who met standard A will likely to meet standard B
+3.NF.3,4.NF.1,student who met standard A will likely to meet standard B
+1.OA.4,4.NF.3,student who met standard A will likely to meet standard B
+2.OA.1,4.NF.3,student who met standard A will likely to meet standard B
+3.NF.2,4.NF.3,student who met standard A will likely to meet standard B
+3.MD.4,4.MD.4,student who met standard A will likely to meet standard B
+3.G.1,4.G.1,student who met standard A will likely to meet standard B
+1.OA.8,4.MD.7,student who met standard A will likely to meet standard B
+1.G.2,4.G.3,student who met standard A will likely to meet standard B
