@@ -76,8 +76,8 @@ python bert/run_classifier.py \
 
 ```
 + The additional scripts needed are modeling.py, optimization.py, tokenization.py
-
-
++ calculate the accuracy of the predicted tesults
+First, we convert the test.tsv file from TAPT fine-tuning and then we evaluate its accuracy. Please see details in the script 'Code/convert_evaluate_test.py'.
 #### Compare to BASELINE
 
 The baseline performance can be generated using the code in 'Code/baseline_code.py'
@@ -86,3 +86,7 @@ The baseline performance can be generated using the code in 'Code/baseline_code.
 TEXSTR metric \Lamda=\alpha*C_{t}+(1-\alpha)*C_{s}
 
 C_{t} is semantic similarity calculated via doc2vec algorithm, C_{s} is calculated via node2vec algorithm. The detail script is located in 'Code/texstr.py' 
+
+#### Evaluate TEXSTR effectiveness
+
+We recruited 10 teachers to evaluate 29 prediction results that TEXSTR would like to reconsider as correct, we have 8 teachers' valid responses back. We compare teachers' rating (normalized to be 0-1 from a scale of 1 to 5) to TEXSTR score as well as calculating the multi-rater agreement via kappa value. Please see details at 'Code/teacher_eval.py'
